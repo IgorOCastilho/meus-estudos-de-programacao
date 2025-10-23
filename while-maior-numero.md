@@ -43,8 +43,6 @@ while usuario != 0:
 
 print('O maior número digitado foi:', numero)
 
-
----
 ```
 💬 Reflexão pessoal
 Hoje fiquei quase uma hora quebrando a cabeça, mas consegui resolver algo que parecia difícil 😅.
