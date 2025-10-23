@@ -41,3 +41,11 @@ while contador <= 5:
     print(contador)
     contador += 1
 print("Fim do programa!")
+
+---
+
+## 💬 Reflexão pessoal
+
+Hoje entendi melhor como o while funciona.
+Antes eu achava que ele era parecido com o for, mas agora percebo que o while é melhor quando não sei quantas vezes quero repetir algo.
+Gostei de ver o programa funcionando com break, e percebi que pequenos erros de indentação causam grandes problemas.
