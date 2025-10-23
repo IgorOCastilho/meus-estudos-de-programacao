@@ -43,7 +43,7 @@ while contador <= 5:
 print("Fim do programa!")
 
 ---
-
+```
 ## 💬 Reflexão pessoal
 
 Hoje entendi melhor como o while funciona.
