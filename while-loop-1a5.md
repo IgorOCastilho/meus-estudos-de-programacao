@@ -4,42 +4,39 @@
 ---
 
 ## 📘 Tema
-Exemplo: Estruturas de repetição em Python (`while`, `for`)
+Contador com Parada Automática
 
 ---
 
-## 🧾 Resumo rápido
-<!-- Escreva em 2–3 linhas a ideia geral -->
-Exemplo:  
-O `while` é usado quando não sabemos exatamente quantas vezes o loop deve rodar.  
-Ele continua executando enquanto a condição for verdadeira.
+## 🧾 Resumo rápido 
+Esse programa cria um contador simples de 1 até 100, utilizando um laço while.
+Durante a execução, ele imprime cada número na tela, mas foi configurado para parar automaticamente quando o número chegar a 5, usando o comando break.
 
 ---
 
 ## 🧩 Explicação passo a passo
-<!-- Liste o que aprendeu, suas observações, e explicações curtas -->
-- `print()` exibe mensagens na tela.  
-- `input()` coleta o que o usuário digita.  
-- O `break` interrompe o loop.  
-- O `continue` pula para a próxima iteração do loop.  
+- Variável `numero` recebe 1  
+- `while` Continua o loop enquanto o número for menor que 100.  
+- Incrementa `numero` em 1 para próxima iteração, se a condição acima não for verdadeira.  
+- `if` Verifique se o número é igual a 5.
+- `break` Se o número for 5 sai do loop imediatamente  
 
 ---
 
 ## ⚠️ Dificuldades ou dúvidas
-<!-- Liste o que achou mais difícil, confuso ou o que quer revisar depois -->
-Exemplo:  
 - Entender quando usar `break` e `continue`.
 
 ---
 
 ## 💻 Código de exemplo
-<!-- Coloque um exemplo completo -->
 ```python
-contador = 1
-while contador <= 5:
-    print(contador)
-    contador += 1
-print("Fim do programa!")
+numero = 1 
+while numero < 100: 
+    print(numero)
+    numero += 1 
+    if numero == 5: 
+        print(numero)
+        break 
 
 ```
 ## 💬 Reflexão pessoal
