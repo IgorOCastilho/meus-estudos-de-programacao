@@ -42,7 +42,7 @@ Além de me ajudar a revisar, esse diário mostra minha evolução como programa
 - Estruturas condicionais (`if`, `elif`, `else`)
 - Listas e dicionários
 - Funções (`def`)
-- Algoritmos de ordenação (Bubble Sort, Quick Sort, etc.)
+- `while` Usando uma condição complexa
 
 ---
 
