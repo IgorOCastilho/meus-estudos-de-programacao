@@ -45,6 +45,7 @@ Depois que isso ficou claro, o raciocínio ficou mais simples e o código funcio
 ---
 
 ## 💻 Código de exemplo
+````Python
 x, y = 5, 15
 
 while x < 10 and y > 10:
