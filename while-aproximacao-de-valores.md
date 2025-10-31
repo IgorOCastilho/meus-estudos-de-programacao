@@ -57,7 +57,7 @@ while x < 10 and y > 10:
 print('Loop concluido!')
 print(f'Valores finais - x: {x}, y: {y}')
 
-```
+````
 ## 💬 Reflexão pessoal
 Gostei muito de aprender esse código, porque ele abriu mais a minha mente e me fez perceber que posso usar duas variáveis na mesma linha de código.
 Isso me ajudou a entender melhor como o Python permite trabalhar com várias condições ao mesmo tempo, deixando o código mais dinâmico e eficiente. 
