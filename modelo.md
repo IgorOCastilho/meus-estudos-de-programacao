@@ -42,7 +42,6 @@ while contador <= 5:
     contador += 1
 print("Fim do programa!")
 
----
 ```
 ## 💬 Reflexão pessoal
 
