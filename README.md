@@ -11,7 +11,7 @@ Aqui registro tudo o que estudo — com anotações, códigos, reflexões pessoa
 |------------------|------------|
 | `modelo.md` | Modelo base para criar novas anotações |
 | `while.md` | Estudo sobre o laço de repetição `while` |
-| *(em breve)* | Novos arquivos sobre `for`, `if`, `listas`, `funções`, etc. |
+| `for.md` | Estudando sobre a estrutura de repetição com contador `for` |
 
 ---
 
@@ -33,7 +33,7 @@ Além de me ajudar a revisar, esse diário mostra minha evolução como programa
 ## 📅 Últimos Estudos
 
 - [x] `while.md` – Estrutura de repetição em Python (21/10/2025)
-- [ ] `for.md` – Estrutura de repetição com contador
+- [x] `for.md` – Estrutura de repetição com contador
 - [ ] `if-else.md` – Estruturas condicionais
 
 ---
